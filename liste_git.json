@@ -1,0 +1,22 @@
+[
+{
+	"name" : "Foo",
+	"URL" : "https://www.foo.com/gift1",
+	"image" : "https://www.foo.com/gift1.png"
+},
+{
+	"name" : "Bar",
+	"URL" : "https://www.foo.com/gift2",
+	"image" : "https://www.foo.com/gift2.png"
+},
+{
+	"name" : "FooBar",
+	"URL" : "https://www.foo.com/gift3",
+	"image" : "https://www.foo.com/gift3.png"
+},
+{
+	"name" : "FOOBAR",
+	"URL" : "https://www.foo.com/gift4",
+	"image" : "https://www.foo.com/gift4.png"
+}
+]
